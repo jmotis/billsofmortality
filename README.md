@@ -5,6 +5,7 @@ Database construction and other files associated with my early modern Bills of M
 
 - 2017DHSIslideshow.pptx - parish-by-parish plague mortality in the first 14 weekly bills of 1666, made in the 2017 DHSI GIS class
 - 2017DHposter.pdf - project poster, presented at DH 2017 in Montreal
+- 2017-12_DHFacultyResearchGroupslideshow.pdf - slideshow of presentation given at Pittsburgh DH Faculty Research Group
 
 ## files TBA
 
