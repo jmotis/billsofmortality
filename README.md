@@ -19,3 +19,4 @@ Database construction and other files associated with my early modern Bills of M
 
 PI: Jessica Otis
 Advisors: Dan J. Evans
+Interns: Paige Kuester
