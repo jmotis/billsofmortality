@@ -1,5 +1,5 @@
 # billsofmortality
-Database construction and other files associated with my early modern Bills of Mortality project (temporary codename: "Death By Numbers").
+Database construction and other files associated with the earliest stages of my early modern Bills of Mortality project ("Death By Numbers"). Now superceded by a GitHub repository associated with the CHNM Github account, https://github.com/chnm/bom and the project website, https://deathbynumbers.org
 
 ## current files
 
