@@ -17,6 +17,4 @@ Database construction and other files associated with the earliest stages of my 
 
 ## project personnel
 
-PI: Jessica Otis
-Advisors: Dan J. Evans
-Interns: Paige Kuester
+These initial stages of the project were conducted by Jessica Otis, with advice from Dan J. Evans and internship assistance from Paige Kuester. The project team is now much longer and full information can be found on the CHNM repository.
